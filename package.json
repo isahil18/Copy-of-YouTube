@@ -1,0 +1,16 @@
+{
+  "name": "copy-of-youtube",
+  "version": "1.0.0",
+  "description": "a backend at copy of youtube",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Sahil Ranjan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
